@@ -38,5 +38,10 @@ An expense tracker application built with Flutter that enables users to manage t
 
 ## Pictures of running app
 
+### View of the app on a desktop
+
 ![View of the app on a desktop](/assets/hellothere.JPG)
+
+### View of the app on a mobile
+
 ![View of the app on a mobile](/assets/hellothere2.JPG)
