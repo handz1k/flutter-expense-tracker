@@ -2,6 +2,10 @@
 
 An expense tracker application built with Flutter that enables users to manage their finances by recording income and expenses. The app also provides statistics to help users understand their spending.
 
+## Deployment
+
+This expense tracker is deployed here: https://expense-tracker-2d42c.web.app
+
 ## Features
 
 - **Income and expense input**: Users can add new income or expense listings.
