@@ -11,9 +11,9 @@ An expense tracker application built with Flutter that enables users to manage t
 
 ## Technologies
 
-- **Flutter**:
-- **Dart**:
-- **Hive**:
+- **Flutter**
+- **Dart**
+- **Hive**
 
 ## To run locally
 
@@ -35,5 +35,3 @@ An expense tracker application built with Flutter that enables users to manage t
    ```bash
    flutter run
    ```
-
-   > > > > > > > bd473c2 (First version of the finished project)
